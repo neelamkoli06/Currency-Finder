@@ -1,0 +1,6 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+.heading {
+    color: #1b1c1d;
+    font-size: 24px;
+    font-weight: 600;
+}
